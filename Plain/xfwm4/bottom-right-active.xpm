@@ -2,6 +2,7 @@
 
 static char* bottom_right_active_xpm [] = {
 
+//"16 5 1 1", // Original thickness
 "16 5 1 1",
 
 ". c #123456 s active_color_1",
